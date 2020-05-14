@@ -1,5 +1,3 @@
-# Hotel-vs-Airbnb
-
 # How to Run The Code
 open terminal 
 
